@@ -1,2 +1,3 @@
 Line commit 5
 Line commit 3
+Line commit 2
